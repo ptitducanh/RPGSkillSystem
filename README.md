@@ -3,8 +3,8 @@
 Here's the overview of the Skill System
 ![image](https://user-images.githubusercontent.com/8966115/181376765-933a3d9d-234e-4775-80c8-1872003d501c.png)
 
-- illAttribute is an attribute of a skill. I can be Name, Description, Skill Effect, etc
-- Talent has Trigger Condition and Effect. Trigger Condition will decide if the Talent can be trigger or not.
+- KillAttribute is an attribute of a skill. I can be Name, Description, Skill Effect, etc
+- Talent has Trigger Condition and Effect. Trigger Condition will decide if the Talent can be trigger or not. Effect of talents can modify/change any SkillAttribute.
 
 
 I also created a simple data editor so any Game Designer can use to create skill/talent database
